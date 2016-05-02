@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[tlm]]></title>
         <description><![CDATA[tlm]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tlm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 10:04:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 May 2016 10:08:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tlm/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Punto MX (1*): Refinamiento mexicano que mantiene la fuerza de sus sabores originarios. Acertados cócteles. #MADRID</p>]]></description>
+            <link>https://thegrid.ai/tlm/punto-mx-1-refinamiento-mexicano-que-mantiene-la-fuerza/index.html</link>
+            <guid isPermaLink="false">00e38d80-bc14-4878-825b-d014441e4a6d</guid>
+            <pubDate>Mon, 02 May 2016 10:07:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/45bebc9c-124e-43cc-8868-b1ef976f0aaf.jpg">]]></description>
-            <link>undefinede24e9b7c-84df-45f9-935d-7745dbeaf90e/index.html</link>
+            <link>https://thegrid.ai/tlm/e24e9b7c-84df-45f9-935d-7745dbeaf90e/index.html</link>
             <guid isPermaLink="false">e24e9b7c-84df-45f9-935d-7745dbeaf90e</guid>
             <pubDate>Mon, 02 May 2016 10:04:22 GMT</pubDate>
         </item>
